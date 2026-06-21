@@ -93,7 +93,7 @@ const vehicles: Vehicle[] = [
     id: 9, name: "Hiace Premio", brand: "Toyota", category: "minibus",
     price: 2_200_000, priceDriver: 2_600_000, seats: 14, fuel: "Solar", transmission: "Manual",
     year: 2022, rating: 4.7, reviews: 78,
-    image: "https://img.mobilmo.com/2019/09/24/f8286LtF/toyota-hiace-premio-1-7307.jpg",
+    image: "https://www.luxurybalitravel.com/wp-content/uploads/2020/09/Hiace-Premio-Exterior-2-900x600.jpeg",
     features: ["14 Kursi Premium", "AC PSD", "Audio System", "Cocok untuk Tour"],
   },
   {
