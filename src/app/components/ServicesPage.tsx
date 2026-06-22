@@ -361,7 +361,7 @@ export function ServicesPage() {
                         >
                           <MessageCircle size={15} /> WhatsApp
                         </a>
-                        <a href="tel:+6281234567890" style={{
+                        <a href="tel:+62895393855667" style={{
                           display: "flex", alignItems: "center", justifyContent: "center",
                           width: 40,
                           backgroundColor: "#EEF1F8",
